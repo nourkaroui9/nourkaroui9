@@ -1,14 +1,17 @@
-👋 Hi, I’m @nourkaroui9
+## Hi, I’m Nour Karoui
+◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈
+
+👩🏻‍💻 PhD candidate in Human Interaction & Artificial Intelligence applied to minimally invasive surgery ! 
+
+🎓 Studied: 
+    ❀ Bachelor degree in Mechanical Engineering 
+    ❀ Master degree in Health Engineering 
 
 👀 I’m interested in :
-Designing and developing health technologies and systems. 
-Photography
+  : ̗̀➛Designing and developing health technologies and systems
+  : ̗̀➛Photography
 
-🌱 I’m currently pursuing a PhD degree in Human Computer Interaction and Artificial Intelligence applied to the surgical field. 
-
-
-
-📫 How to reach me:
+✉️ How to reach me:
 - nour.karoui@sorbonne-universite.fr
 - karoui@isir.upmc.fr
 

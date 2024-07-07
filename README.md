@@ -1,18 +1,18 @@
 ## Hi, I’m Nour Karoui
-◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈
-👩🏻‍💻 PhD candidate in Human Interaction & Artificial Intelligence applied to minimally invasive surgery ! 
+◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈◈━◈━◈━◈━◈ <br>
+👩🏻‍💻 PhD candidate in Human Interaction & Artificial Intelligence applied to minimally invasive surgery ! <br>
 
-🎓 Studied: 
-    ❀ Bachelor degree in Mechanical Engineering 
-    ❀ Master degree in Health Engineering 
+🎓 Studied: <br>
+    ❀ Bachelor degree in Mechanical Engineering <br>
+    ❀ Master degree in Health Engineering <br>
 
-👀 I’m interested in :
-  : ̗̀➛Designing and developing health technologies and systems
-  : ̗̀➛Photography
+👀 I’m interested in : <br>
+  : ̗̀➛Designing and developing health technologies and systems <br>
+  : ̗̀➛Photography <br>
 
-✉️ How to reach me:
-- nour.karoui@sorbonne-universite.fr
-- karoui@isir.upmc.fr
+✉️ How to reach me: <br>
+- nour.karoui@sorbonne-universite.fr <br>
+- karoui@isir.upmc.fr <br>
 
 
 <!---
